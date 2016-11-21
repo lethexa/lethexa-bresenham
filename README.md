@@ -8,6 +8,8 @@ Installation
 Usage of algorithm
 ------------------
 
-	var bresenham3d = require('lethexa-bresenham3d');
+	var bresenham = require('lethexa-bresenham');
 
-
+	bresenham.calculateLine(0,0, 2,2, function(x, y) {
+		console.log('Point', x, y);
+	});
