@@ -15,8 +15,9 @@ Usage of algorithm
 	});
 
 
-Contributors
-------------
+License
+-------
 
-* Tim Leerhoff <tleerhof@web.de>
+This library is published under BSD-2-license.
+
 
