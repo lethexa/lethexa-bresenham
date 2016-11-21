@@ -5,10 +5,13 @@
     "Tim Leerhoff <tleerhof@web.de>"
   ],
   "description": "Library for calculating lines with Bresenhams-algorithm.",
-  "main": "public/index.html",
   "moduleType": [
     "amd",
     "es6"
+  ],
+  "keywords": [
+    "Bresenham",
+    "Line"
   ],
   "license": "BSD2-Clause",
   "ignore": [
