@@ -1,6 +1,6 @@
 {
   "name": "lethexa-bresenham",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Library for calculating lines with Bresenhams-algorithm.",
   "main": "index.js",
   "author": {

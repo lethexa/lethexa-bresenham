@@ -1,13 +1,14 @@
 {
   "name": "lethexa-bresenham",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "authors": [
     "Tim Leerhoff <tleerhof@web.de>"
   ],
   "description": "Library for calculating lines with Bresenhams-algorithm.",
   "moduleType": [
     "amd",
-    "es6"
+    "es6",
+    "globals"
   ],
   "keywords": [
     "Bresenham",
