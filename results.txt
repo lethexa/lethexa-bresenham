@@ -1,0 +1,25 @@
+
+[0m[0m
+[0m  Bresenham-algorithm[0m
+[0m    #calculateLine()[0m
+[2K[0G    [32m  ✓[0m[90m should calculate a horizontal line from (0,0) to (2,0) and call the callback for each point[0m
+[0m    #calculateLine()[0m
+[2K[0G    [32m  ✓[0m[90m should calculate a vertical line from (0,0) to (0,2) and call the callback for each point[0m
+[0m    #calculateLine()[0m
+[2K[0G    [32m  ✓[0m[90m should calculate a horizontal line from (0,0) to (-2,0) and call the callback for each point[0m
+[0m    #calculateLine()[0m
+[2K[0G    [32m  ✓[0m[90m should calculate a vertical line from (0,0) to (0,-2) and call the callback for each point[0m
+[0m    #calculateLine()[0m
+[2K[0G    [32m  ✓[0m[90m should calculate a 45° line from (0,0) to (2,2) and call the callback for each point[0m
+[0m    #calculateLine()[0m
+[2K[0G    [32m  ✓[0m[90m should calculate a 135° line from (0,0) to (2,-2) and call the callback for each point[0m
+[0m    #calculateLine()[0m
+[2K[0G    [32m  ✓[0m[90m should calculate a 225° line from (0,0) to (-2,-2) and call the callback for each point[0m
+[0m    #calculateLine()[0m
+[2K[0G    [32m  ✓[0m[90m should calculate a 315° line from (0,0) to (-2,2) and call the callback for each point[0m
+[0m    #calculateLine()[0m
+[2K[0G    [32m  ✓[0m[90m should calculate a line from (0,1) to (6,3) and call the callback for each point[0m
+
+
+[92m [0m[32m 9 passing[0m[90m (28ms)[0m
+

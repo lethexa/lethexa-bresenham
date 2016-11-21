@@ -1,0 +1,25 @@
+{
+  "name": "lethexa-bresenham",
+  "version": "0.0.1",
+  "authors": [
+    "Tim Leerhoff <tleerhof@web.de>"
+  ],
+  "description": "Library for calculating lines with Bresenhams-algorithm.",
+  "main": "public/index.html",
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "license": "BSD2-Clause",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "Gruntfile.js",
+    "jenkins-grunt.sh",
+    "publishTag.sh",
+    "lib",
+    "test"
+  ],
+  "dependencies": {
+  }
+}

@@ -1,0 +1,7 @@
+/node_modules/
+/nbproject/private/
+/coverage/
+/doc/
+/dist/
+/build/
+npm-debug.log
